@@ -1,0 +1,104 @@
+.wrapper{
+	overflow: hidden;
+}
+.logo{
+	background-color: #909090;
+	min-height: 100px;
+	float: left;
+	width: 50%;
+}
+.logo p{
+	text-align: center;
+	padding-top: 14px;
+	font-size: 20px;
+}
+.nav{
+	background-color: #909090;
+	min-height: 100px;
+	float: right;
+	width: 50%;
+}
+.nav p{
+	text-align: center;
+	padding-top: 14px;
+	font-size: 20px;
+}
+
+
+.feature1{
+	width: 20%;
+	min-height: 300px;
+	background-color: #909090;
+	float: left;
+	margin: 2% 2% 2% 0;
+}
+.feature2{
+	width: 20%;
+	min-height: 300px;
+	background-color: #909090;
+	float: left;
+	margin: 2% 4%;
+
+}
+.feature3{
+	width: 20%;
+	min-height: 300px;
+	background-color: #909090;
+	float: left;
+	margin: 2% 4%;
+
+}
+
+.feature4{
+	width: 20%;
+	min-height: 300px;
+	background-color: #909090;
+	float: right;
+	margin: 2% 0 2% 2% ;
+
+}
+
+.box1{
+	background-color: #909090;
+	min-height: 800px;
+	width: 32%;
+	float: left;
+}
+.box1 p{
+	text-align: center;
+	padding-top: 320px;
+	font-size: 20px;
+}
+.box2{
+	background-color: #909090;
+	min-height: 800px;
+	width: 32%;
+	float: left;
+	margin-left: 2%;
+}
+.box2 p{
+	text-align: center;
+	padding-top: 320px;
+	font-size: 20px;
+
+}
+.box3{
+	background-color: #909090;
+	min-height: 800px;
+	width: 32%;
+	float: right;
+}
+.box3 p{
+	text-align: center;
+	padding-top: 320px;
+	font-size: 20px;
+}
+.footer{
+	background-color: #909090;
+	min-height: 100px;
+}
+.footer p{
+	text-align: center;
+	padding-top: 40px;
+	font-size: 20px;
+}
